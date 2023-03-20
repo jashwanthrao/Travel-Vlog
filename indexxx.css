@@ -1,0 +1,96 @@
+#divhyd{
+    float: left;
+    width: 100%;
+    height: 300px;
+    background-color: purple;
+    position: relative;
+    left: 10%;
+}
+#leftvideohyd{
+    box-shadow: 2px 2px 5px black;
+    float: left;
+    width: 380px;
+    border-radius: 10px;
+    position: absolute;
+    left: 10%;
+    top: 15%;
+}
+#headinghyd{
+    position: absolute;
+    right: 20%;
+    color: chartreuse;
+}
+#Rightparahyd{
+    font-size: 20px;
+    text-indent: 30px;
+    text-align: justify;
+    color: white;
+    width: 50%;
+    position: absolute;
+    right: 10%;
+    top: 20%;
+}
+#divbnl{
+    float: left;
+    width: 100%;
+    height: 300px;
+    background-color: purple;
+    position: relative;
+    left: 10%;
+}
+#rightvideobnl{
+    box-shadow: 2px 2px 5px black;
+    float: right;
+    width: 380px;
+    border-radius: 10px;
+    position: absolute;
+    right: 15%;
+    top: 15%;
+}
+#headingbnl{
+    position: absolute;
+    left: 20%;
+    color: chartreuse;
+}
+#leftparabnl{
+    font-size: 20px;
+    text-indent: 30px;
+    text-align: justify;
+    color: white;
+    width: 50%;
+    position: absolute;
+    left: 1%;
+    top: 20%;
+}
+#divcni{
+    float: left;
+    width: 100%;
+    height: 300px;
+    background-color: purple;
+    position: relative;
+    left: 10%;
+}
+#leftvideocni{
+    box-shadow: 2px 2px 5px black;
+    float: left;
+    width: 380px;
+    border-radius: 10px;
+    position: absolute;
+    left: 10%;
+    top: 15%;
+}
+#headingcni{
+    position: absolute;
+    right: 20%;
+    color: chartreuse;
+}
+#rightparacni{
+    font-size: 20px;
+    text-indent: 30px;
+    text-align: justify;
+    color: white;
+    width: 50%;
+    position: absolute;
+    right: 10%;
+    top: 20%;
+}
